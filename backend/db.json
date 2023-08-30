@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Heros Hlatki Godoy",
+      "email": "heros.h.godoy@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@gmail.com",
+      "id": 2
+    }
+  ]
+}
